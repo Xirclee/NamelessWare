@@ -23,3 +23,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/TheyCallMeDx1/Nameles
      Aimlock
      Silent Aim (Coming Soon)
      Aim Assist (Coming Soon)
+
+--[[ If you want to be whitelisted join https://discord.gg/SYxKFGsBUx and, Dm vlone#0011]]
